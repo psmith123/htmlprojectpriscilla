@@ -1,2 +1,0 @@
-# htmlprojectpriscilla
-First HTML Project
